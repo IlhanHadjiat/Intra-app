@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IntraPro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="pseudo">delta_c</string>
+    <string name="MAJ">Mis à jour</string>
+    <string name="openTicket">Tickets ouverts</string>
+    <string name="closeTicket">Tickets clos</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Planning</string>
+    <string name="menu_slideshow">Tickets</string>
+    <string name="token">eyJpZGVudGl0eSI6ImV5SnBaQ0k2TXpFMU5qSXNJbXh2WjJsdUlqb2labUYxYzNSaFgySWlMQ0psYldGcGJDSTZJbVpoZFhOMFlWOWlRR1YwYm1FdFlXeDBaWEp1WVc1alpTNXVaWFFpTENKc2IyZGhjeUk2Wm1Gc2MyVXNJbWR5YjNWd2N5STZXeUp6ZEhWa1pXNTBJbDBzSW14dloybHVYMlJoZEdVaU9pSXlNREl4TFRBMExURTFJREEwT2pFeE9qRXpJbjA9Iiwic2lnbmF0dXJlIjoicmZmbWtFNGcrU1ZhSm5yMlBycGs2VjNsQlA2dUV4Y0RxVkdHcHNjNTdnYzZLM2FYQ0ZoSWtuWWZqblVFcVBZMDRNbjBPOExMS0lHN3Q1dVwvWEhOdUhFc28yUW9QbE9MeExIdjJLSVlNMzFFa2JsNVBZMnBGQXZ0K1FoSFRacUZvRUZvc0Z1UEREdnhGazQyRUc3MjRlOHNrbkhxbnhKQTZ0QWVzV3VibW5nTVJUWmJ0ZENlaWQ5S1BEWU9EMG51SlIzNTJcL25XN3hDVXRtRkhFRDRWS2FFWVd0SjFVazEzdHYzVExGVFhveEJ5VWFmeHIxeGhkZlZUY1VNUnZ3MWRvMGQ0ejFqY3BNR1hua3BrMU95ZFFsc3JXbVRzd29TVFBsWEVMQ3BlaXJ4ZGs4S1NVbTVRYUNCWWdPMktaODNkOTJmRzdTTzAxVnNPMzF1NFlJazIyMGlPQ2M5T2hUaTFJQ0FoNTFMcWxOWElZZVBSSk56OUUrc05WbnVOYWF5ZU1DWlNHRWUwQTFkZklwbEZRakNzYSt6cHBtVDkxczl3VFFnejNCNjh1eXErT3hIdUFwZktsMm5jU2RHTWpuVUU3OFI0RTVITTB0TmNkRDZtcFdNWmxJVzFOSEdaTjRPdGhnQTJ3TzBrVUMzandROTMwQWlCbFhocXd3bFNLWkNJQ0pNdnZ5QUJkekNhQXZybnJPQzRiXC83ek9MU0dcL1RwQ2NRcUhsdzVsazRENE5oSnVMWmFVVHBySVwvNFUzZmN6bG5PQlE4U250M0dhUEw3MmUrR0c5Y3Q2TVdKeVVEaEZHb2Y3cjNrZUM1S0VWTHlvUkVqdk9jdE1aVUM4Y2RWdDlrXC9Fa0VrVlN2b3NWTmQwWjZ5MGVZWmFVelhlamtSaFZJRjdqWkRwKzlNbWc9In0%3D%3D%3D</string>
+</resources>

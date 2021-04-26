@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/planning_logo"
+            android:title="Planning" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ticket_logo"
+            android:title="Tickets" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/contact_logo"
+            android:title="Contacter quelqu'un" />
+
+        <item
+            android:id="@+id/nav_timeswork"
+            android:icon="@drawable/timeswork_logo"
+            android:title="Temps de travail" />
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+
+            android:title="Profile">
+
+            <menu>
+
+
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/profile_icon"
+                    android:title="Profile" />
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/logout_logo"
+                    android:title="Se déconnecter" />
+
+            </menu>
+        </item>
+    </group>
+
+
+</menu>
